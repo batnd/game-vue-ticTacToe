@@ -4,7 +4,7 @@
 
 ## Внешний вид
 
-![project-screen](project_image.jpg)
+![project-screen](project-image.jpg)
 
 ## Выполненные задачи:
 - Знакомство с фреймворком Vue.js, его подходами к созданию SPA;
